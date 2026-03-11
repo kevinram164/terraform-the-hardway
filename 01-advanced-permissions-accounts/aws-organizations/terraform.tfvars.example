@@ -1,0 +1,12 @@
+# Copy to terraform.tfvars and customize
+# terraform.tfvars is in .gitignore - never commit credentials or account-specific values
+
+aws_region         = "ap-southeast-1"
+organization_name  = "terraform-lab-org"
+
+ou_structure = [
+  "Security",
+  "Infrastructure",
+  "Workloads",
+  "Sandbox"
+]

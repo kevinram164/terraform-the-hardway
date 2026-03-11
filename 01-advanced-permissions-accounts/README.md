@@ -2,6 +2,13 @@
 
 **Cantrill SAP** → Section: Advanced Permissions & Accounts, AWS Organizations
 
+## Tài liệu học
+
+| Tài liệu | Mô tả |
+|----------|-------|
+| **[docs/LEARNING_GUIDE.md](./docs/LEARNING_GUIDE.md)** | Hướng dẫn học theo từng bài Cantrill (checklist, khái niệm, practice) |
+| **[docs/AWS_ORGANIZATIONS.md](./docs/AWS_ORGANIZATIONS.md)** | Tài liệu AWS Organizations (links chính thức, SCP examples, Terraform reference) |
+
 ## Nội dung Cantrill
 
 - AWS Organizations: multi-account strategy

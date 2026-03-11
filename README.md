@@ -8,7 +8,7 @@ Mục tiêu: chuẩn bị cho NAB Innovation Centre Vietnam (Terraform + AWS + A
 
 | Module | Cantrill Section | Nội dung |
 |--------|------------------|----------|
-| [01-advanced-permissions-accounts](./01-advanced-permissions-accounts/) | Advanced Permissions & Accounts | AWS Organizations, OUs, SCPs |
+| [01-advanced-permissions-accounts](./01-advanced-permissions-accounts/) | Advanced Permissions & Accounts | [Learning Guide](./01-advanced-permissions-accounts/docs/LEARNING_GUIDE.md) – 22 bài theo Cantrill |
 | 02-... | (tiếp theo) | ... |
 
 ## Cách học
